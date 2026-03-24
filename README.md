@@ -64,10 +64,7 @@ I'm a **Systems Engineer** at Tata Consultancy Services with a passion for build
 
 ---
 
-### 🤖 GenAI Mini Apps  
-> Practical applications built using LLM APIs including chatbots, summarizers, and prompt engineering experiments.
 
-`Python` `GenAI` `LLM` `APIs`
 
 ---
 
