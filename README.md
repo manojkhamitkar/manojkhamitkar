@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=Manoj%20Khamitkar&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
-### Systems Engineer · Java Developer · AI/ML Enthusiast
+### Systems Engineer · AI/ML Enthusiast  
 #### @ Tata Consultancy Services, Bengaluru 🇮🇳
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manojkhamitkar-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/manojkhamitkar)
@@ -14,13 +14,12 @@
 
 ## 👋 About Me
 
-I'm a **Systems Engineer** at Tata Consultancy Services with a passion for building things at the intersection of **Java backend development** and **Artificial Intelligence**. I enjoy turning complex problems into clean, working solutions — whether that's a REST API, a machine learning pipeline, or a GenAI-powered app.
+I'm a **Systems Engineer** at Tata Consultancy Services with a passion for building intelligent systems using **Artificial Intelligence and Machine Learning**. I enjoy solving real-world problems through data-driven approaches and creating impactful AI solutions.
 
-- 🏢 Currently at **TCS** as a Systems Engineer (Prime)
-- 🤖 Built an **AI-Enabled Stylist** during my internship at Infosys Springboard
-- ☕ Strong foundation in **Java, Spring Boot**, and backend engineering
-- 🧠 Exploring **Machine Learning, Deep Learning, and Generative AI**
-- ☁️ Getting hands-on with **AWS** (S3, Lambda, EC2)
+- 🏢 Currently at **TCS** as a Systems Engineer (Prime)  
+- 🤖 Built multiple **AI-based applications** during internships and projects  
+- 🧠 Strong interest in **Machine Learning, Deep Learning, and Generative AI**  
+- ☁️ Exploring **AWS Cloud (S3, Lambda, EC2)**  
 - 📍 Based in **Bengaluru, India**
 
 ---
@@ -29,15 +28,7 @@ I'm a **Systems Engineer** at Tata Consultancy Services with a passion for build
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-**Frameworks & Tools**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **AI / ML**
 
@@ -51,35 +42,30 @@ I'm a **Systems Engineer** at Tata Consultancy Services with a passion for build
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 AI Projects
 
-### 🎨 AI-Enabled Stylist
-> An AI-powered fashion recommendation system built during my Infosys Springboard internship.
-> Leverages machine learning to suggest outfits based on user preferences and body type.
+### 🎨 AI-Enabled Stylist  
+> AI-powered fashion recommendation system that suggests outfits based on user preferences, body type, and trends.  
+> Developed during Infosys Springboard internship.
+
+🔗 https://github.com/manojkhamitkar/AI-Stylish  
 
 `Python` `Machine Learning` `Deep Learning` `AI`
 
 ---
 
-### ⚙️ Spring Boot CRUD API
-> Production-style RESTful API built with Spring Boot, JPA, and MySQL.
-> Clean architecture, proper error handling, and documented endpoints.
+### 🧠 Deep Learning Attendance Management System  
+> Smart attendance system using Deep Learning techniques (Face Recognition) to automate student attendance tracking.  
+> Improves accuracy, reduces manual effort, and enhances security.
 
-`Java` `Spring Boot` `REST API` `MySQL`
+🔗 https://github.com/manojkhamitkar/224G5A3308-CSM-21-25-Batch-B14/tree/master/Project%20Documents  
 
----
-
-### 🧠 ML Notebooks
-> A collection of hands-on ML and Deep Learning experiments — classification, regression,
-> neural networks, and more — with clear explanations and visualizations.
-
-`Python` `ML` `Deep Learning` `Jupyter`
+`Python` `Deep Learning` `Computer Vision` `Face Recognition`
 
 ---
 
-### 🤖 GenAI Mini Apps
-> Small but practical GenAI-powered applications built using LLM APIs —
-> chatbots, text summarizers, and prompt engineering experiments.
+### 🤖 GenAI Mini Apps  
+> Practical applications built using LLM APIs including chatbots, summarizers, and prompt engineering experiments.
 
 `Python` `GenAI` `LLM` `APIs`
 
@@ -108,16 +94,16 @@ I'm a **Systems Engineer** at Tata Consultancy Services with a passion for build
 
 ## 🎯 Currently Working On
 
-- [ ] 🔁 Rebuilding the AI-Enabled Stylist project with a clean GitHub repo and docs
-- [ ] 🌱 Deepening GenAI skills — LangChain, RAG pipelines, prompt engineering
-- [ ] ☁️ AWS Cloud Practitioner certification prep
-- [ ] 📝 Writing about Java + AI on GitHub Discussions
+- [ ] 🔁 Enhancing AI projects with better UI and deployment  
+- [ ] 🌱 Deepening GenAI skills — LangChain, RAG pipelines, prompt engineering  
+- [ ] ☁️ AWS Cloud Practitioner certification prep  
+- [ ] 📝 Sharing learnings on AI + ML  
 
 ---
 
 ## 📫 Let's Connect
 
-I'm always open to collaborating on interesting Java or AI projects, or just geeking out about tech.
+I'm open to collaborating on AI/ML and GenAI projects.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manojkhamitkar)
 
