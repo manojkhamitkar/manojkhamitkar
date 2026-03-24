@@ -1,32 +1,131 @@
-<h1 align="center">Hi 👋, I'm Manoj Khamitkar</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manojkhamitkar&label=Profile%20views&color=0e75b6&style=flat" alt="manojkhamitkar" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=Manoj%20Khamitkar&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojkhamitkar" alt="manojkhamitkar" /></a> </p>
+### Systems Engineer · Java Developer · AI/ML Enthusiast
+#### @ Tata Consultancy Services, Bengaluru 🇮🇳
 
-- 🔭 I’m currently working on [Stripe Payment Integration](https://github.com/manojkhamitkar/Stripe-Payment-Integration)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-manojkhamitkar-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/manojkhamitkar)
+[![GitHub followers](https://img.shields.io/github/followers/manojkhamitkar?style=flat-square&color=6C63FF)](https://github.com/manojkhamitkar)
 
-- 🌱 I’m currently learning **Spring**
+</div>
 
-- 📫 How to reach me **khamitkarmanoj@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1A4Bs5CfULFMZqQbeuPjNw30ncjE09HIX/view?usp=sharing](https://drive.google.com/file/d/1A4Bs5CfULFMZqQbeuPjNw30ncjE09HIX/view?usp=sharing)
+## 👋 About Me
 
-- ⚡ Fun fact **I am funny😎**
+I'm a **Systems Engineer** at Tata Consultancy Services with a passion for building things at the intersection of **Java backend development** and **Artificial Intelligence**. I enjoy turning complex problems into clean, working solutions — whether that's a REST API, a machine learning pipeline, or a GenAI-powered app.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/manoj khamitkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj khamitkar" height="30" width="40" /></a>
-<a href="https://kaggle.com/khamitkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="khamitkar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manojkhamitkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manojkhamitkar" height="30" width="40" /></a>
-</p>
+- 🏢 Currently at **TCS** as a Systems Engineer (Prime)
+- 🤖 Built an **AI-Enabled Stylist** during my internship at Infosys Springboard
+- ☕ Strong foundation in **Java, Spring Boot**, and backend engineering
+- 🧠 Exploring **Machine Learning, Deep Learning, and Generative AI**
+- ☁️ Getting hands-on with **AWS** (S3, Lambda, EC2)
+- 📍 Based in **Bengaluru, India**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojkhamitkar&show_icons=true&locale=en&layout=compact" alt="manojkhamitkar" /></p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojkhamitkar&show_icons=true&locale=en" alt="manojkhamitkar" /></p>
+**Languages**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojkhamitkar&" alt="manojkhamitkar" /></p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**Frameworks & Tools**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🎨 AI-Enabled Stylist
+> An AI-powered fashion recommendation system built during my Infosys Springboard internship.
+> Leverages machine learning to suggest outfits based on user preferences and body type.
+
+`Python` `Machine Learning` `Deep Learning` `AI`
+
+---
+
+### ⚙️ Spring Boot CRUD API
+> Production-style RESTful API built with Spring Boot, JPA, and MySQL.
+> Clean architecture, proper error handling, and documented endpoints.
+
+`Java` `Spring Boot` `REST API` `MySQL`
+
+---
+
+### 🧠 ML Notebooks
+> A collection of hands-on ML and Deep Learning experiments — classification, regression,
+> neural networks, and more — with clear explanations and visualizations.
+
+`Python` `ML` `Deep Learning` `Jupyter`
+
+---
+
+### 🤖 GenAI Mini Apps
+> Small but practical GenAI-powered applications built using LLM APIs —
+> chatbots, text summarizers, and prompt engineering experiments.
+
+`Python` `GenAI` `LLM` `APIs`
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| Systems Engineer (Prime) | Tata Consultancy Services | Nov 2025 – Present |
+| Java Developer Intern | HulkHire | Feb 2025 – Mar 2025 |
+| Artificial Intelligence Intern | Infosys Springboard | May 2024 – Jul 2024 |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=manojkhamitkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkhamitkar&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Currently Working On
+
+- [ ] 🔁 Rebuilding the AI-Enabled Stylist project with a clean GitHub repo and docs
+- [ ] 🌱 Deepening GenAI skills — LangChain, RAG pipelines, prompt engineering
+- [ ] ☁️ AWS Cloud Practitioner certification prep
+- [ ] 📝 Writing about Java + AI on GitHub Discussions
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to collaborating on interesting Java or AI projects, or just geeking out about tech.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manojkhamitkar)
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" />
+
+*"First, solve the problem. Then, write the code."*
+
+</div>
